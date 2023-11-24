@@ -1,4 +1,4 @@
-# ZART 🧟‍♂️:
+# ZART 🧟‍♂️
 
  Welcome to ZART! This is an immersive game crafted for those who love a good scare and enjoy solving puzzles. The game plunges players into a horror-themed maze where making the wrong turn could mean a heart-pounding jumpscare. Navigate cautiously and solve the puzzles to find your way out.
  This is a team project for a Game Development module created by a group of 4 students passionate about gaming and horror.
